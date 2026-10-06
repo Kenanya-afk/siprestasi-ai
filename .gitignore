@@ -26,3 +26,8 @@ Thumbs.db
 
 # Model/cache
 .cache/
+
+#venv
+venv311/
+__pycache__/
+.env
